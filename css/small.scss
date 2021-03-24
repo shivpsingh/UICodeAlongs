@@ -1,0 +1,22 @@
+@media screen and (max-width: 649px) {
+
+    .nav {
+        display: flex;
+        justify-content: center;
+    }
+
+    .nav ul {
+        margin-top: 1em;
+        display: block;
+        text-align: center;
+        li {
+            margin-bottom: 1em;
+        }
+    }
+
+    .container {
+        display: flex;
+        flex-direction: column;
+    }
+
+}
